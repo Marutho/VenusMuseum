@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1b26cd78909acb548b3339a8acdf73b8
+  - enabled: 1
+    path: Assets/Scenes/TransitionScene.unity
+    guid: e50f9e18b53e5c14a9247f09f4b245b1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_1.unity
+    guid: 0c2a9eb03149f7041b1758d474ca3946
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_2.unity
+    guid: 561d9643771f5c3419d7759c59b3e576
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_3.unity
+    guid: 6a82176ed17cb324b9f1406fd64be9b5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_4.unity
+    guid: 31fddae56cdff6e4ab7043917bd4a166
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_1-2.unity
+    guid: bf0539dd318860f458da436bd6a3b64d
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_2-2.unity
+    guid: 9716f5b1d2a190f4cb23545862471e23
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_3-2.unity
+    guid: 1e817467a42a6c045b18bf7b60e48c20
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_4-1.unity
+    guid: 828b6c591998cda4ca7d75e7f96816d4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_1-3.unity
+    guid: e892aa6665335734690bc2a064d6dc72
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_2-3.unity
+    guid: d3e5dc53ea1e76e498069f3701666606
+  - enabled: 1
+    path: Assets/Scenes/Levels/Minigame_4-2.unity
+    guid: 0173b1275e754864286f114c9b7772ee
+  m_configObjects: {}
