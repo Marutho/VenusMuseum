@@ -7,7 +7,9 @@ Venus Museum is heavily inspired in Wario Ware. In our game, you traverse a muse
 We included some aragonese women like Conchita Martinez, one of the most influential tennis players in the world or Blanca Catalán, considered the first botanic in Spain.
 
 Game Designer/Programmer - @MaruView
+
 Game Designer/Programmer - @TheAbsyde
+
 Artist - @MultiverseDemon
 
 Play the game here! -> https://absydeauberon.itch.io/venus-museum
