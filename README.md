@@ -10,6 +10,8 @@ Game Designer/Programmer - @MaruView
 Game Designer/Programmer - @TheAbsyde
 Artist - @MultiverseDemon
 
+Play the game here! -> https://absydeauberon.itch.io/venus-museum
+
 <img src="./Pics/2.png" width="854px" height="480px"></img>
 <img src="./Pics/3.png" width="854px" height="480px"></img>
 <img src="./Pics/4.png" width="854px" height="480px"></img>
